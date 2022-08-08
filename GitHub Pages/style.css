@@ -1,7 +1,12 @@
+.tes{
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+}
 .img{
     position: absolute;
-    top: 4em;
-    right: 25em;
+    top: 1em;
+    right: 5em;
 }
 .block{
     max-width: 600px;
@@ -10,12 +15,15 @@
 p{
     color:darkolivegreen;
     padding: 0% 2% 0%; 
+    font-size: 18px;
 }
 .tatle{
     background-color: brown;
-    margin: 0;
+    margin: 0.1em 0em 0em 0em;
     font-size: 40px;
     text-align: center;
+    border: 1px solid brown;
+    border-radius: 15px;
 }
 body{
     margin: 0;
