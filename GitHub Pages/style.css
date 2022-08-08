@@ -24,6 +24,9 @@ p{
     text-align: center;
     border: 1px solid brown;
     border-radius: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
 }
 body{
     margin: 0;
