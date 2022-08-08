@@ -1,11 +1,21 @@
+.img{
+    position: absolute;
+    top: 4em;
+    right: 25em;
+}
+.block{
+    max-width: 600px;
+    margin: 0 auto;
+}
 p{
     color:darkolivegreen;
-    padding: 0px 20px 0px; 
+    padding: 0% 2% 0%; 
 }
-.name{
+.tatle{
     background-color: brown;
     margin: 0;
-    
+    font-size: 40px;
+    text-align: center;
 }
 body{
     margin: 0;
