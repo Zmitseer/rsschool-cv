@@ -1,35 +1,9 @@
+.content{
+    margin: 0 auto;
+    max-width: 750px;
+    
+}
 .tes{
-    position: relative;
-    max-width: 600px;
-    margin: 0 auto;
-}
-.img{
-    position: absolute;
-    top: 1em;
-    right: 1em;
-}
-.block{
-    max-width: 600px;
-    margin: 0 auto;
-}
-p{
-    color:darkolivegreen;
-    padding: 0% 2% 0%; 
-    font-size: 18px;
-    text-align: justify;
-}
-.tatle{
-    background-color: brown;
-    margin: 0.1em 0em 0em 0em;
-    font-size: 40px;
-    text-align: center;
-    border: 1px solid brown;
-    border-radius: 15px;
-    position: sticky;
-    top: 0;
-    z-index: 2;
-}
-body{
-    margin: 0;
-    padding: 0;
+    
+
 }
