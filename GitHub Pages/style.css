@@ -6,7 +6,7 @@
 .img{
     position: absolute;
     top: 1em;
-    right: 5em;
+    right: 1em;
 }
 .block{
     max-width: 600px;
@@ -16,6 +16,7 @@ p{
     color:darkolivegreen;
     padding: 0% 2% 0%; 
     font-size: 18px;
+    text-align: justify;
 }
 .tatle{
     background-color: brown;
