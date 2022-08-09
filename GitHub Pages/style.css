@@ -12,6 +12,22 @@ body{
     position: relative;
     background-color:rgb(29, 28, 28)
 }
+.Education{
+    color: rgb(211, 216, 219);
+    position: relative;
+    margin-top: 2em;
+}
+hr{
+    color: rgb(240, 221, 54);
+    background-color: rgb(240, 221, 54);
+    border: none;
+    height: 2px;
+    width: 10em;
+    position: absolute;
+    right: 0;
+    top: 1em;
+    
+}
 .uph{
     position: relative;
     bottom: 1em;
@@ -38,7 +54,7 @@ body{
     color: rgb(211, 216, 219);
 }
 .dataphone, .dataaddress, .dataemail{
-    padding: 2px 4px;
+    padding: 2px 0.46em;
     display: block; 
     position: relative; 
     left: 0; width: 100%;
