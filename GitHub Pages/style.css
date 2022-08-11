@@ -16,22 +16,47 @@ body{
     color: rgb(211, 216, 219);
     position: relative;
     left: 3em;
-    top: 1em;
+    top: -1.5em;
     margin-top: 2em;
 }
-hr{
+.line{
     color: rgb(240, 221, 54);
     background-color: rgb(240, 221, 54);
     border: none;
     height: 2px;
-    width: 11em;
+    width: 12em;
     position: absolute;
     right: 3.01em;
-    top: 1em;
-    
+    top: 1.2em;
+
+}
+.line1{
+    color: rgb(240, 221, 54);
+    background-color: rgb(240, 221, 54);
+    border: none;
+    height: 2px;
+    width: 12em;
+    position: absolute;
+    right: 3.01em;
+    top: 8em;
+
 }
 .foundation{
     margin-left: 3em;
+}
+.Me1{
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+.Me{
+    color: rgb(28, 28, 29);
+    background-color: rgb(28, 28, 29);
+    border: none;
+    height: 2px;
+    width: 30em;
+    
+
 }
 .uph{
     position: relative;
@@ -50,6 +75,23 @@ hr{
     background-color: rgb(240, 221, 54);
     margin-top: 0;
     text-transform: uppercase;
+}
+.tatle3{
+    text-transform: uppercase;
+    color: rgb(211, 216, 219);
+    margin: 0;
+    padding: 0;
+    font-size: 1.1em;
+    position: relative;
+    left: -1em;
+    
+}
+.Reference{ color: rgb(211, 216, 219);
+    position: relative;
+    left: 3em;
+    top: -1.5em;
+    margin-top: 2em;
+
 }
 .data{
     line-height: 1,5em;
