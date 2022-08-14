@@ -8,7 +8,7 @@ body{
     
 }
 .img{
-    height: 900px;
+    height: 1100px;
     position: relative;
     background-color:rgb(29, 28, 28)
 }
@@ -81,6 +81,11 @@ body{
 .experiencepedding{
     padding-right: 2em;
     white-space: nowrap;
+}
+.jobtitle{
+    font-size: 1.em;
+    text-transform: uppercase;
+    font-weight:550;
 }
 .uph{
     position: relative;
