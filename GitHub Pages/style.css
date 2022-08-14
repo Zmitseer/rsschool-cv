@@ -8,7 +8,7 @@ body{
     
 }
 .img{
-    height: 610px;
+    height: 900px;
     position: relative;
     background-color:rgb(29, 28, 28)
 }
@@ -16,8 +16,15 @@ body{
     color: rgb(211, 216, 219);
     position: relative;
     left: 3em;
-    top: -1.5em;
+    top: 2em;
     margin-top: 2em;
+}
+.Reference{ color: rgb(211, 216, 219);
+    position: relative;
+    left: 3em;
+    top: 2em;
+    margin-top: 2em;
+
 }
 .line{
     color: rgb(240, 221, 54);
@@ -44,10 +51,19 @@ body{
 .foundation{
     margin-left: 3em;
 }
-.Me1{
+.abautme{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: -2em;
+}
+.Me1, .Me2{
     margin: 0;
     padding: 0;
     text-transform: uppercase;
+}
+.Me2{
+    margin-top: 2em;
 }
 .Me{
     color: rgb(28, 28, 29);
@@ -55,8 +71,16 @@ body{
     border: none;
     height: 2px;
     width: 30em;
-    
-
+}
+.experience2021, .experience2020, .experience2018, .experience20118{
+    display: flex;    
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+.experiencepedding{
+    padding-right: 2em;
+    white-space: nowrap;
 }
 .uph{
     position: relative;
@@ -86,13 +110,7 @@ body{
     left: -1em;
     
 }
-.Reference{ color: rgb(211, 216, 219);
-    position: relative;
-    left: 3em;
-    top: -1.5em;
-    margin-top: 2em;
 
-}
 .data{
     line-height: 1,5em;
     position: absolute;
@@ -119,9 +137,4 @@ body{
 .img3{
     position: absolute;
     bottom: 9.5em;
-}
-
-.tes{
-    
-
 }
