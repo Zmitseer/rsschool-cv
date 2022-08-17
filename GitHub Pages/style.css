@@ -61,9 +61,11 @@ body{
     margin: 0;
     padding: 0;
     text-transform: uppercase;
+   
 }
 .Me2{
     margin-top: 2em;
+    font-family: 'Roboto Slab', serif;
 }
 .Me{
     color: rgb(28, 28, 29);
